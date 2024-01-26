@@ -33,6 +33,8 @@ The application is built on a sophisticated architecture that includes real-time
 - Monitoring: Prometheus, Grafana
 - Analytics: AWS QuickSight
 
+## Codelab Link:  https://codelabs-preview.appspot.com/?file_id=1VKzjBXYz6WHbUYpdWE8Bf31nyXr5I8HOZGIkRCAZlkg#0
+
 
 ## Part 2: Public Safety and Crime Reporting Application
 
@@ -58,3 +60,5 @@ The application uses Lambda Architecture, comprising:
 - **AWS Redshift**: Data warehousing.
 - **Cassandra**: Database for Serving Layer.
 - **Python**: For backend development.
+
+## Codelab Link: https://codelabs-preview.appspot.com/?file_id=1jLKdUT1Xc-T3g6Z4Gq4pordolDvNw1-O7Zy6aXz-_n8#0
